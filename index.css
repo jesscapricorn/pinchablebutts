@@ -1,0 +1,9 @@
+body {
+    background: #b336ed url(./img/tile.png) top left repeat;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+img {
+    width: 1000px;
+    height: auto;
+}
